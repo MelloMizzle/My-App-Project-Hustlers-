@@ -1,0 +1,20 @@
+name: skillconnect_flutter
+description: A local business and skills transfer app
+version: 1.0.0+2
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.6.1
+  cloud_firestore: ^4.8.1
+  firebase_storage: ^11.3.1
+  google_maps_flutter: ^2.5.1
+  geolocator: ^11.0.0
+  provider: ^6.1.1
+  pdfx: ^2.3.1
+  url_launcher: ^6.2.5
+  flutter_chat_ui: ^1.6.5

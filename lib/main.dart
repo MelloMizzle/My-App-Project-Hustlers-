@@ -1,0 +1,1 @@
+/* Updated main.dart with business registration, profile, resources tab */

@@ -1,0 +1,1 @@
+// business_registration.dart placeholder with updated functionality
